@@ -195,3 +195,14 @@ Para la configuración de este script hay que completar los parametros dentro de
 
 mainAsn = 6057
 mainInstancias = 124
+
+# top10.py
+
+## Utilidad
+Este script sirve para dejar el top10 acumulado de cada corrida en cada directorio
+
+## Configuración de la ejecución
+Se copia y se pega la salida del top10 de analizoResultadoInstancias en la variable texto_ejemplo 
+
+# creaTabla.py
+Arma la tabla en latex con los resultados para poder documentar
